@@ -9,7 +9,8 @@ https://en.wikipedia.org/wiki/Machine-readable_passport
 Last version:
 
 ```
-npm install --save https://github.com/aisland-dao/mrz-generator.git```
+npm install --save https://github.com/aisland-dao/mrz-generator.git
+```
 
 The **x.y.z** version:
 
