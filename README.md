@@ -9,13 +9,12 @@ https://en.wikipedia.org/wiki/Machine-readable_passport
 Last version:
 
 ```
-npm install --save https://github.com/pgendre/n26-challenge-mrz-generator.git
-```
+npm install --save https://github.com/aisland-dao/mrz-generator.git```
 
 The **x.y.z** version:
 
 ```
-npm install --save https://github.com/pgendre/n26-challenge-mrz-generator.git#x.y.z
+npm install --save https://github.com/aisland-dao/mrz-generator.git#x.y.z
 ```
 
 ### N26 challenge
