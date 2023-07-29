@@ -119,6 +119,7 @@ ABW Aruba
 </br>AFG Afghanistan
 </br>AGO Angola
 </br>AIA Anguilla
+</br>AIS Aisland
 </br>ALA Åland Islands
 </br>ALB Albania
 </br>AND Andorra
